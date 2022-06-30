@@ -1,2 +1,2 @@
 # Onedarker
-Onedark inspired colorscheme written in lua.
+onedarker but with dark red background
