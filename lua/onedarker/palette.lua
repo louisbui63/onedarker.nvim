@@ -1,8 +1,8 @@
 local colors = {
   none = "NONE",
   fg = "#abb2bf",
-  bg = "#1f2227",
-  alt_bg = "#282c34",
+  bg = "#4b0110",
+  alt_bg = "#6c0816",
   dark = "#282c34",
   accent = "#BBBBBB",
   dark_gray = "#2a2f3e",
